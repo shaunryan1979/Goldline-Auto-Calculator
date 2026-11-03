@@ -1,7 +1,7 @@
 {
   "name": "Goldline Auto Quote",
   "short_name": "Goldline Quote",
-  "description": "Zunivoq-inspired car sales financing calculator",
+  "description": "Goldline luxury auto financing quote calculator",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
